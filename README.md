@@ -1,5 +1,6 @@
-Santa Cruz Crime Report Tool
-Overview
+**Santa Cruz Crime Report Tool**
+
+**Overview**
 This tool is designed to analyze and report on crime data in Santa Cruz. It provides insightful visualizations and statistical analysis to help understand crime patterns and trends within the city.
 
 Features
