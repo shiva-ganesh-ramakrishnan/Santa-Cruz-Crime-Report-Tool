@@ -15,9 +15,12 @@ This tool is designed to analyze and report on crime data in Santa Cruz. It prov
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, etc.
 
 ## Installation
-To run this tool, clone the repository and install the required dependencies:
+To run this tool in local, clone the repository and install the required dependencies:
 
 ```bash
 git clone [repository-url]
 cd Santa_Cruz_Crime_Report_Tool
 pip install -r requirements.txt
+```
+
+Alternatively you can use Google Colab to work with it.
