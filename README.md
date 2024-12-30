@@ -18,7 +18,6 @@ This tool is designed to analyze and report on crime data in Santa Cruz. It prov
 To run this tool in local, clone the repository and install the required dependencies:
 
 ```bash
-git clone [repository-url]
 cd Santa_Cruz_Crime_Report_Tool
 pip install -r requirements.txt
 ```
